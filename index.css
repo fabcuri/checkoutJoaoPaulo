@@ -1,0 +1,36 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+#card{
+    background-color: white;
+    width: 70%;
+    margin: 0 auto;
+}
+#entrada{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+input{
+    margin-top: 10px;
+    border-radius: 15px;
+    padding: 12px;
+}
+#botao1{
+    background-color: aqua;
+}
+#botao2{
+    background-color: rgb(78, 235, 73);
+}
+#botao3{
+    background-color: rgb(209, 209, 24);
+}
+#botao4{
+    background-color: rgb(153, 20, 29);
+}
+#forma2{
+    margin-top: 30px;
+    background-color: beige;
+    font-size: x-large;
+}
